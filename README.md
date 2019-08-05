@@ -1,6 +1,4 @@
-##################################
-#   Author: Yiwen(Victor) Song   #
-##################################
+#   Author: Yiwen(Victor) Song
 
 Welcome to the Land Battle Chess Game!\
 \
