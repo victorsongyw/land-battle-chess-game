@@ -2,7 +2,7 @@
 
 Welcome to the Land Battle Chess Game!\
 \
-If you do not know how to play, read this wikipedia page:\
+If you do not know how to play, read this wikipedia page:
   https://en.wikipedia.org/wiki/Luzhanqi \
 Or, you can check out the help manual within the game (press "H").
 
